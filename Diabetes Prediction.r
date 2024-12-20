@@ -1,7 +1,6 @@
-setwd("C:/[DSA1101]")
 set.seed(1101)
 
-data = read.csv("diabetes-dataset.csv")
+data = read.csv("D:\\diabetes_dataset.csv")
 head(data)
 data$hypertension = as.factor(data$hypertension)
 data$heart_disease = as.factor(data$heart_disease)
