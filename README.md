@@ -4,7 +4,7 @@
 
 
 ## Introduction
-Diabetes is a growing global health issue characterized by elevated blood sugar levels, leading to serious complications if unmanaged. Early prediction is essential for effective intervention and prevention. This project focuses on developing predictive models to determine an individual's diabetes status using health-related data. By applying machine learning models such as K-Nearest Neighbors (KNN), Decision Trees, Naive Bayes, and Logistic Regression to the dataset diabetes-dataset.csv, the goal is to identify key risk factors and create accurate tools that can help healthcare professionals identify high-risk individuals for timely treatment.
+Diabetes is a growing global health issue characterized by elevated blood sugar levels, leading to serious complications if unmanaged. Early prediction is essential for effective intervention and prevention. This project focuses on developing predictive models to determine an individual's diabetes status using health-related data. By applying machine learning models such as K-Nearest Neighbors (KNN), Decision Trees, Naive Bayes, and Logistic Regression to the dataset diabetes_dataset.csv, the goal is to identify key risk factors and create accurate tools that can help healthcare professionals identify high-risk individuals for timely treatment.
 
 ## Table of Contents
 - [Introduction](#introduction)
