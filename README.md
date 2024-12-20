@@ -75,6 +75,7 @@ To build the model, I employed 3-fold Cross Validation (CV) to determine the opt
 
 ### Model 2: Decision Trees
 ![image](https://github.com/user-attachments/assets/50e74f54-a1ae-4dac-a896-fa4948983922)
+
 After evaluating the model on the testing set, the results showed a type 1 error of 0%, a type 2 error of 32.9%, and an AUC value of 0.84. While the type 1 error is excellent, the type 2 error is relatively high.
 
 ### Model 3: Naive Bayes
