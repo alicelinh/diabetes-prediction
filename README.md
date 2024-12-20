@@ -12,7 +12,7 @@ Diabetes is a growing global health issue characterized by elevated blood sugar 
 - [Analysis](#analysis)
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
-- [Visualisation (Statistical Report)](#visualisation-statistical-report).
+- [Visualisation (Statistical Report)](#visualisation-statistical-report)
 
 
 ## Features
