@@ -89,6 +89,7 @@ This model produces the best results, with a type 1 error of 10.2%, a type 2 err
 ## Results
 Based on the goodness-of-fit, I choose the **Logistic Regression** model as the best classifier since it produces the lowest type 2 error and the highest AUC value among all models.
 
+Moreover, we can see that people with hypertension, heart disease, older age, high BMI, high Hemoglobin A1c and blood glucose level are more likely to have diabetes. Hence, it is crucial to adopt a healthy lifestyle to prevent diabetes by maintaining a balanced diet rich in whole grains, fruits, and vegetables, engaging in regular physical activity to manage weight, monitoring and controlling blood pressure and blood glucose levels, reducing intake of processed and sugary foods, and scheduling regular medical check-ups to track key health indicators. Additionally, managing stress and ensuring adequate sleep can further support overall health and reduce the risk of developing diabetes.
 
 ## Visualisation (Statistical Report)
 A statistical report about the project is available to explore more about the data insights and machine learning models: [Diabetes Prediction - Statistical Report](Diabetes%20Prediction%20-%20Statistical%20Report.pdf)
