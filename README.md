@@ -91,4 +91,4 @@ Based on the goodness-of-fit, I choose the **Logistic Regression** model as the 
 
 
 ## Visualisation (Statistical Report)
-A statistical report about the project is available to explore more about the data insights and machine learning models: 
+A statistical report about the project is available to explore more about the data insights and machine learning models: [Diabetes Prediction - Statistical Report](Diabetes%20Prediction%20-%20Statistical%20Report.pdf)
