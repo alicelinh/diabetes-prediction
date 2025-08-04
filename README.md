@@ -76,7 +76,7 @@ Predictive Models: Logistic Regression, Support Vector Machine (SVM), K-Nearest 
 
 
 ## Results
-![image]([https://github.com/user-attachments/assets/b22d8ecc-a187-4abd-8b87-7f5d03c6ff2f](https://github.com/alicelinh/diabetes-prediction/blob/main/Screenshot%202025-08-05%20003510.png?raw=true))
+![image](https://github.com/alicelinh/diabetes-prediction/blob/main/Screenshot%202025-08-05%20003510.png?raw=true)
 
 After Hyperparameter Tuning:
 ![image](https://github.com/alicelinh/diabetes-prediction/blob/main/Screenshot%202025-08-05%20003937.png?raw=true)
