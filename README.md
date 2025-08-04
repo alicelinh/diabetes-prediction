@@ -47,7 +47,7 @@ Before building predictive models, performing exploratory data analysis (EDA) is
 
 ### Response variable: diabetes
 With 4,299 observations in the data, there are 2,998 people without diabetes and 1,301 people with diabetes.
-![image](https://github.com/user-attachments/assets/abc4353b-4db3-4781-a1c4-0206830e2f6f](https://github.com/alicelinh/diabetes-prediction/blob/main/diabetes%20distribution.png?raw=true)
+![image](https://github.com/alicelinh/diabetes-prediction/blob/main/diabetes%20distribution.png?raw=true)
 
 ### Association between the response variable and numeric variables
 After analysing the relationships between the response variable and each numeric variable, the following conclusions were drawn:
