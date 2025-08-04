@@ -8,11 +8,13 @@ Diabetes is a growing global health issue characterized by elevated blood sugar 
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Data](#data)
 - [Features](#features)
 - [Analysis](#analysis)
 - [Machine Learning Models](#machine-learning-models)
 - [Results](#results)
 
+## Data
 
 ## Features
 ### Numeric features
