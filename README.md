@@ -15,6 +15,9 @@ Diabetes is a growing global health issue characterized by elevated blood sugar 
 - [Results](#results)
 
 ## Data
+This dataset is the output of a Chinese research study conducted in 2016. It includes 1301 samples of patients who tested positive for diabetes, and the age of the participants ranges from 21 to 99 years old. The dataset was collected according to the indicators and standards of the World Health Organization, making it a reliable source for building diabetes diagnosis models. Researchers and healthcare professionals can use this dataset to train and test machine learning models to predict and diagnose diabetes in patients.
+
+Link to Kaggale Dataset: https://www.kaggle.com/datasets/pkdarabi/diabetes-dataset-with-18-features
 
 ## Features
 ### Numeric features
