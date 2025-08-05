@@ -38,7 +38,7 @@ There are 13 numeric features:
 
 ### Categorical features
 There are 4 categorical features:
-- Gender: A binary variable indicating sex assigned at birth, where 0 = Male and 1 = Female
+- Gender: A binary variable indicating sex assigned at birth, where 1 = Male and 2 = Female
 - Smoking Status: A categorical indicator of a person’s tobacco use history, where 1 = Current Smoker, 2 = Ever Smoker, and 3 = Never Smoker
 - Drinking Status: A categorical variable representing alcohol consumption history, where 1 = Current Drinker, 2 = Ever Drinker, and 3 = Never Drinker
 - Family History of Diabetes: A binary variable indicating whether a person has a family history of diabetes, where 1 = Yes and 0 = No
