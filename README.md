@@ -61,7 +61,7 @@ After analysing the relationships between the response variable and each numeric
 There are no clear differences between people with and without diabetes across other categorical variables, including Gender, Smoking Status, Drinking Status, and Family History of Diabetes.
 
 ### Feature Engineering
-![image](https://github.com/alicelinh/diabetes-prediction/blob/main/Screenshot%202025-08-04%20234729.png?raw=true)
+![image](https://github.com/alicelinh/diabetes-prediction/blob/main/feature%20engineeing.png?raw=true)
 Based on domain knowledge and interaction terms, I created 15 new features such as Pulse Pressure and Obesity Class. These features help to capture underlying health conditions and risk factors more effectively.
 
 ### Feature Selection
@@ -78,9 +78,9 @@ Predictive Models: Logistic Regression, Support Vector Machine (SVM), K-Nearest 
 
 
 ## Results
-![image](https://github.com/alicelinh/diabetes-prediction/blob/main/Screenshot%202025-08-05%20003510.png?raw=true)
+![image](https://github.com/alicelinh/diabetes-prediction/blob/main/results%20after%20training.png?raw=true)
 
 After Hyperparameter Tuning:
-![image](https://github.com/alicelinh/diabetes-prediction/blob/main/Screenshot%202025-08-05%20003937.png?raw=true)
+![image](https://github.com/alicelinh/diabetes-prediction/blob/main/results%20after%20tuning.png?raw=true)
 
 Based on the goodness-of-fit, I choose the **Support Vector Machine** model as the best classifier since it produces the highest recall after tuning among all models.
