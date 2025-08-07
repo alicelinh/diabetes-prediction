@@ -82,9 +82,12 @@ Predictive Models: Logistic Regression, Support Vector Machine (SVM), K-Nearest 
 
 ## Results
 After Training:
+
 ![image](https://github.com/alicelinh/diabetes-prediction/blob/main/results%20after%20training.png?raw=true)
 
+
 After Hyperparameter Tuning:
+
 ![image](https://github.com/alicelinh/diabetes-prediction/blob/main/results%20after%20tuning.png?raw=true)
 
 Based on the goodness-of-fit, I choose the **Support Vector Machine** model as the best classifier since it produces the highest recall after tuning among all models.
