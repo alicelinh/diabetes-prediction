@@ -71,7 +71,7 @@ Based on domain knowledge and interaction terms, I created 15 new features such 
 I applied a combination of filter methods (SelectKBest, Variance Threshold, Correlation Filter), wrapper methods (RFE, SFS), and embedded methods (Lasso, tree-based feature importance) to select the optimal features for each model. The most consistently selected features across methods were Age, BMI, SBP, DBP, and FPG. Among the methods, SelectKBest performed the best, followed by RFE.
 
 
-## Building Predictive Models
+## Machine Learning Models
 Predictive Models: Logistic Regression, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), Decision Tree, Random Forest, XGBoost, LightGBM, Multilayer Perceptron (MLP)
 - Firstly, the dataset was divided into training set and testing set with ratio 8:2, respectively. All the proposed models will have the same training set and testing set as other models. The training set is to build the model and determine the parameter for each model. Then, I will use the models built to test on the testing set and examine their goodness-of-fit.
 - The most important metric for goodness-of-fit is recall. Other metrics are precision, ROC AUC value.
