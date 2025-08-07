@@ -8,6 +8,7 @@ Diabetes is a growing global health issue characterized by elevated blood sugar 
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Table of Contents](#table-of-contents)
 - [Data](#data)
 - [Features](#features)
 - [Analysis](#analysis)
